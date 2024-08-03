@@ -11,12 +11,11 @@ This is a simple Employee Management Application built with React. It allows you
 ### Installation
 
 1. **Clone the repository:**
-
-   ```bash
   https://github.com/vamsi0874/Employees_Management.git
+
   cd Employees_Management
 
-2. Install dependencies:
+3. Install dependencies:
    npm install
 
    npm un dev
