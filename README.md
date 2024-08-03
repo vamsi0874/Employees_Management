@@ -14,11 +14,12 @@
    git clone https://github.com/vamsi0874/Employees_Management.git
 
 2.**Navigate into the project directory:**
-   cd Employees_Management
+    cd Employees_Management
 
- 3.Install dependencies:
+3.**Install dependencies:**
     npm install
-4.Start the development server:
+
+4.**Start the development server:**
     npm run dev
 
 
