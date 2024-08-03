@@ -13,13 +13,12 @@
    ```bash
    git clone https://github.com/vamsi0874/Employees_Management.git
 
-2.Navigate into the project directory:
-```bash
+2.**Navigate into the project directory:**
    cd Employees_Management
 
-3. Install dependencies:
-```bash
-   npm install
+ 3.Install dependencies:
+    npm install
 4.Start the development server:
-```bash
-   npm run dev
+    npm run dev
+
+
