@@ -37,7 +37,7 @@ const EmployeeList = () => {
 
   return (
     <div className="employee-list-container">
-      <h1>Employee List</h1>
+      <h1>Employees Management List</h1>
       {employees.length ? (
         <ul>
           {employees.map((employee) => (
